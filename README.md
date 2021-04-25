@@ -16,3 +16,4 @@ Projeto Base para Testes - .Net Core
 
 ## Slides
 [Slides em PDF](TesteNetCore.pdf)
+exercício baixado para fazer tests e praticar o dotnet por Marcus David Petitinga
